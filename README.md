@@ -27,4 +27,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The root page contains a list of available blog pages by slug
 
-This is hosted in Netlify:
+This is hosted in Netlify: [https://playful-chimera-7903f0.netlify.app/hire-me](https://playful-chimera-7903f0.netlify.app/hire-me)
