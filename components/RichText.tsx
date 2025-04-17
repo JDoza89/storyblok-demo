@@ -1,5 +1,3 @@
-// lib/richTextRenderer.ts
-
 import { richTextResolver } from "@storyblok/richtext";
 
 const RichText = (doc: any) => {
